@@ -1,5 +1,5 @@
 # blinds
-big blinds NENA-17 + esp8266 + A4988 + mqtt 
+BIG blinds: NENA-17 + esp8266 + A4988 + mqtt 
 
 Original code: https://github.com/andreypopov/blinds-popov
 
