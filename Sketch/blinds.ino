@@ -7,6 +7,7 @@ WiFiClient espClient;
 ESP8266WebServer server(80);
 MQTTClient client;
 
+//Original code: https://github.com/andreypopov/blinds-popov
 #define VERSION "7.3.1" //for NEMA-17
 #define DEBUG
 //==================================================================
