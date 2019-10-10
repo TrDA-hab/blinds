@@ -12,8 +12,8 @@ MQTTClient client;
 //==================================================================
 //===SETTINGS block=================================================
 //==================================================================
-const char* WIFI_ssid       = "Cisco-3G";
-const char* WIFI_password   = "adminbadseed";
+const char* WIFI_ssid       = "Cisco";
+const char* WIFI_password   = "admin";
 const char* OTA_hostname    = "Blinds-OTA-02";
 const char* OTA_password    = "";
 const char* MQTT_namespace  = "Blindss"; //first part of mqtt topic /[namespace]/..
